@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Varun
 
-<!--
-**varuntamada118/varuntamada118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Artificial Intelligence & Machine Learning at GMRIT  
+💻 Working on AI, Machine Learning, and Agentic AI projects  
+🚀 Building applications using Python, APIs, Streamlit, and LLMs  
+🧠 Exploring Generative AI, Automation, and Intelligent Systems  
+📚 Learning by building real-world projects and participating in hackathons  
+⚡ Interested in solving practical problems with technology  
 
-Here are some ideas to get you started:
+## Tech Stack 🛠️
+- Python 🐍
+- Machine Learning 🤖
+- Streamlit 🎨
+- SQL 🗄️
+- Git & GitHub 🌐
+- HTML • CSS • JavaScript 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus 🎯
+- AI Agents & Automation
+- Generative AI
+- Full-Stack AI Applications
+- Open Source Contributions
+
+## Connect With Me 🌍
+- GitHub: YourGitHubLink
+- LinkedIn: YourLinkedInLink
+
+_"Build consistently. Improve continuously."_ 🚀
