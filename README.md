@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Varun Tamada</h1>
+<h1 align="center">Hi, I'm Varun Tamada</h1>
 <h3 align="center">Java DSA | AI Projects | Python</h3>
 
 ---
 
 ### About Me
-- 💻 Building practical AI projects  
-- 🧠 Practicing DSA with Java  
-- 🤖 Exploring LLMs, APIs, and automation  
+- Building practical AI projects  
+- Practicing DSA with Java  
+- Exploring LLMs, APIs, and automation  
 
 ---
 
