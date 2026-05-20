@@ -1,28 +1,21 @@
-# Hi there 👋 I'm Varun
+# Hi, I'm Varun 👋
 
-🎓 B.Tech student in Artificial Intelligence & Machine Learning at GMRIT  
-💻 Working on AI, Machine Learning, and Agentic AI projects  
-🚀 Building applications using Python, APIs, Streamlit, and LLMs  
-🧠 Exploring Generative AI, Automation, and Intelligent Systems  
-📚 Learning by building real-world projects and participating in hackathons  
-⚡ Interested in solving practical problems with technology  
+I'm an Artificial Intelligence & Machine Learning undergrad at GMRIT. I enjoy building practical tools and exploring how AI can automate tasks and solve real-world problems.
 
-## Tech Stack 🛠️
-- Python 🐍
-- Machine Learning 🤖
-- Streamlit 🎨
-- SQL 🗄️
-- Git & GitHub 🌐
-- HTML • CSS • JavaScript 💻
+### What I'm Up To 🚀
 
-## Current Focus 🎯
-- AI Agents & Automation
-- Generative AI
-- Full-Stack AI Applications
-- Open Source Contributions
+* 💻 Building full-stack AI applications and autonomous agents using **Python, LLMs, and Streamlit**.
+* 📚 Learning continuously through hackathons, open-source contributions, and hands-on projects.
 
-## Connect With Me 🌍
-- GitHub: YourGitHubLink
-- LinkedIn: YourLinkedInLink
+### Tech Stack 🛠️
 
-_"Build consistently. Improve continuously."_ 🚀
+* **Languages:** Java, Python, SQL,
+* **Libraries & Tools:** PyTorch, TensorFlow, NumPy, and Scikit-learn, and various APIs
+* **Core Focus:** DSA, Machine Learning, Generative AI, AI Agents
+
+### Let's Connect 🌍
+
+* [Instagram](https://www.instagram.com/vrsnx.xe)
+* [LinkedIn](https://www.linkedin.com/in/varuntamada118/)
+
+> *"Build consistently. Improve continuously."*
